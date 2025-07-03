@@ -43,6 +43,10 @@ Welcome to my GitHub! I'm a **Data Analyst & Backend Developer** who loves extra
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+### 🧠 AI & GenAI Tools  
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=flat-square&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-181717?style=flat-square&logo=github&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ---
 
 ## 🚀 Featured Projects
@@ -59,10 +63,7 @@ Welcome to my GitHub! I'm a **Data Analyst & Backend Developer** who loves extra
 - 📈 **EDA + ML Pipeline Projects**  
   Using Python + scikit-learn for cleaning, preprocessing, training classification/regression models.
 
-  ### 🧠 AI & GenAI Tools  
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=flat-square&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/Copilot-181717?style=flat-square&logo=github&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+  
 
 ---
 
