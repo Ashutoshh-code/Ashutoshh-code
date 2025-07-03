@@ -59,8 +59,8 @@ Welcome to my GitHub! I'm a **Data Analyst & Backend Developer** who loves extra
 
 ## 📬 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/ashutosh-shukla22/)
-- 📧 Email: your.email@example.com  
+- [LinkedIn](www.linkedin.com/in/ashutoshshukla2)
+- 📧 Email: shuklashantanu389@gmail.com 
 - 🌐 Portfolio: *coming soon!*
 
 ---
