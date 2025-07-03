@@ -8,7 +8,6 @@ Welcome to my GitHub! I'm a **Data Analyst & Backend Developer** who loves extra
 
 - 🧠 Passionate about **Data Analytics**, **Predictive Modeling**
 - 🛠️ Skilled in transforming data into insights using **Python, SQL, Excel, Power BI**
-- 🌐 Experience building REST APIs with **Node.js + Express + MongoDB**
 - 📊 Enjoy doing **EDA, statistics, machine learning**, and making dashboards that **tell stories with data**
 - 🎯 Currently diving deeper into **time series forecasting**, **ML pipelines**, and advanced **data engineering**
 
