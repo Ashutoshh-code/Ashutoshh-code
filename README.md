@@ -63,7 +63,20 @@ Welcome to my GitHub! I'm a **Data Analyst & Backend Developer** who loves extra
 - 📈 **EDA + ML Pipeline Projects**  
   Using Python + scikit-learn for cleaning, preprocessing, training classification/regression models.
 
-  
+  🧠 Deloitte Data Analytics Virtual Internship (Forage)
+Completed a virtual internship simulating real-world data analytics tasks at Deloitte.
+
+📊 Analyzed factory telemetry data and gender pay gaps across global locations
+
+📈 Built interactive dashboards using Tableau
+
+🛠️ Created calculated fields to quantify downtime and visualize salary inequality
+
+🧩 Developed insights to support business decision-making
+
+🗂️ Project Type: Case-Based Simulation
+📅 Completed: July 2025
+🔗 Hosted by: Forage
 
 ---
 
