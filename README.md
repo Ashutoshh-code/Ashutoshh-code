@@ -35,6 +35,7 @@ Welcome to my GitHub! I'm a **Data Analyst & Backend Developer** who loves extra
 ### BI & Visualization  
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 
 ### Tools  
